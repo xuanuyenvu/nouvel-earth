@@ -6,7 +6,7 @@ After billions of years of existence, under the devastation caused by humanity a
 
 ## Getting Started
 To play Nouvel Earth, simply click on the following link:
-[New Earth - Play Now](https://xuanuyenvu21.itch.io/nouvelearth)
+[Nouvel Earth - Play Now](https://xuanuyenvu21.itch.io/nouvelearth)
 
 ## Credits
 Nouvel Earth is conceived, designed, and developed by me.
